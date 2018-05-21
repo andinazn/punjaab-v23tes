@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\d8c034cec0ade0399693e82db4c97172611ad222\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47ce3e9564ff4e051829877c4e876d36940c438a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\a124a4df84e3e436c6c0e03b41216654bff91d5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8409b52ff818b491faf2b01f5097b2be08fb3ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\6090c8c4b5b033400d9c0dcf956fa830fe3a6ade\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f82862c9229f91f68ab8f0b5fff2ccd24f3e3c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\shared\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1827612e5e8b60c933f9056ad7b08ee0f762eda7">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\4\classes_a3f9602e0821a32d625207eaac60932be95c839a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\dfa18b3b410fd3e1b5fed2189b0f9287b9c4ce74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc26c1ce47d83ec7b1c646c41ced129d0a4be880\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\shared\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1827612e5e8b60c933f9056ad7b08ee0f762eda7">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\wear\build\intermediates\pre-dexed\debug\classes_a3f9602e0821a32d625207eaac60932be95c839a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\8a87b18ae275ede070eb188b1c7441c2ccccdc56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3de0f878ddb0a7cd6bedee32d2d867efedbb7c9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\d66e41c15f7ecb935f04bc31886b93024e3551f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c175d9250014d3995d2fdc43652a53b1cd7a003\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\d6c3968ee4728e3b7b2f6b510bbd086bb5cd105c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41f5ff8b20cf423dd6a68a32bd2bc3db8016a20f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\20186db95297c2f3bc6db420ff97a0764f3ac47b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0cd54ef4a3dcbaaf0da8955d5c9e95f6aabe4192\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\4bc7aa90eaea47cf39a235bc906ea19b4edbce34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a4e932b85a6d1fc0ac9d95195ece297752c25a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\wear\libs\opencsv-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2858373af0681aafd3d79fdd533cc9127959c9ea">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\wear\build\intermediates\pre-dexed\debug\opencsv-3.3_0a3be1f6bae4025279fbf08748c4b38cd96ece5b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\a2908bbb6ff844f278ff020441398808dc212980\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3234585e8c60dc33ee2747e0a5bacc346a97624a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\89b8e5e711a397e0ee9fd2edf7ee52a5b6a6cdb6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0b93de31d13062617b645c54154103f6f9e85de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\4eb858f8eb68a2a38e6b0651a57d6fbe2bb561bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3cb3562c3d09ba2c82375950046fc92fa3cab548\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\1766f27260ec1f04abf1a1ed115220e45689a0a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29ae966279f79f72800c8712280c7b39f44d1d0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\e157149460bacdb0a712f74aff6d984c0480ba52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7eec57d0deaf32af1d81d8fdeb28bfad9caf89e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_48ac73c55819c5872a54ed490a93a14796299cbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\9f0cb107b06be3daeb6739e93b1f9b660c7fb484\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed43666f30044f18ea48305a6474dbf91609e57c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\ff324fbc5feba42675cf7d06d88176b34ab504c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_276b633aac478a76180ef82c97882b407e873fc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\f8c5626bd066fdefc8885615865ad38a1bac028e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80e5fa0a1d39589fd1e7d8c8e41bb056d6d6178f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\f27af28fa65300ef7d2ef23c64325e54c6297e33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31dce7222f71351107d7da0a6a9c127474cf1edf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\8242e0f9a2e4bb4ce7863d6645b85abed13b0337\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f0d6bf1ec355e6742c6d4cab0f8844cd73d5a5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\f60aaeaa57520329781f8b61381c9a7836f8679d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7fbba303c7eea2ab21b75ba50756cc90e44b024a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\443e0663a85bcf872c37fe99d90c99405da7da18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34a18064a2479b001ff661c467777a5f7e507745\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\3331805509375bfb7c91ea55d799d61f8f0916ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_166a2a8c16719e2cd989854ba784591c480b5b03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\091ff276fdc9edf83e24c57e4da0636c07d75d38\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f17e11f573489fc4f20ff4ce88af1e901ce4e841\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\f56814c951826ba810df01c3cb36db61dc968695\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e7af8115488e48a1f57a2407091d1429d716a0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\418f7c8e99bea87e7b92d4ec7967baf4487aa549\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af4f7a0a0f8d126bbebafd788cf8d6bedafdb872\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\2c47a0b1e949b0de0d2c9e51a0d48df1cacafc05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5600b706090417e86e521bde9cc76fa4f136aa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\22dbc4f4a3f34dc2e73bae70fd73768924c07bcb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_031bd001af0e718968858ee33be964ce0def809e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\c52468a86663e1a5d971aaaa6eedc1492d31dbba\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_26488aa575567189bfb145da2c22fcfc7591ddf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\3642d067a6327ce6b746df0d05e665f19af25475\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26d1ddd6c6fffb7611de61e0e6d6d5bd6cbe4821\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\2e9bd512cdef92333fe862aaf9305fc88e299b18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_37328ec4e08b2baee5ccc9e1b37c3aa3f9f08a52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\08b1606765f16c6603bd3fecce067ded8ff8c896\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d919d055828060056c8f75e2929227cca2941eb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\f8399fca614a4703e22580689d71e1ee3fc712d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_96fd7e474a3528d9d124a18bf44d8d59aaa0f564\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\0715be4e60b93bc84c5c373c11775021f466d64c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0812c14ba279b26e6243e2e0731194aefc971824\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\82337d2e97f34f42c771092034787f1d92cd3998\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae4fc155fd8e01c1abdb69cec1a7fcff17d008ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\feda84de5d95f547dd420c3af532c71e2c79c8c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8da03a48c9487003c48a383fc34a1ee9528f7c20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\f383fa567dd821c90c599a81716bced36d7fe0e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3271f80c0a8edebc349c242af2065c569e200eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\56e3b607816b8e60c7bb291f809210a31637d266\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6912dd3f22e9bf1fcd60f6160cc79b156f187b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\4a2a92e8c6a6fc60c7fc0ff13caa96aee9d4ea8b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30d5ec8814f98c1f6f2c62f2d5661db56f714d59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\c92ccf148f6794fa2feae0961b624af1d241e269\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_240ee18f14ac56dba1112d8af0b43522cbcb422f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\246777f4b783c57a63e267a3a292f08ac20d4b4d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_786f524246b5c97cbfa69db40b2279b2083b2ea5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\12b84038a1a187028e8758a25a61257f7e024b2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fad1650184db1a96dc737dcec0322004bbfc7d88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\c3f2f3b5a1ef567e7ec2e52197633526afcb4bc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7d1af0e38e01d6e5b52c8491bb78154fe51baec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\6ab65eb1762e149a50b6db6576d9cec90f59df12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43a25b29d387a952ee4f5e542db613ca8b5a69bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\59373782205b888da476351de7c1951627884629\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11e0fa551845ed14926395b742ba306bbebc073c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\387b1656c0b2f5d72073108afb348644730daf10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03e01d077032044ad3d587fa12c73e0437b5016c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\caed76ef75c4448b75c4178bb2f061e828183a00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27f211861d895a8c2de5ff6efdefbdf529d6ccfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\libs\opencsv-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2858373af0681aafd3d79fdd533cc9127959c9ea">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\2\opencsv-3.3_e79c0aefff9bda088a7ef859a2c4d36cac4bfe3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\4abc0cd2ffcbeadd5011c80f650548b3ad5bbeef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4454b6f746fa4c38c5f7db2ef862abd25f3f2b54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\2c969bd4b8cb2a192c19cc9686927efb9460e313\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44f651688b09f388309c6be19815b770a489d16d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\8771530ff06592ee40e4bdb68c16e3a7b393e7bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a85e0c2cb3fc688eeec509867ffa3f37696faec6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\c52468a86663e1a5d971aaaa6eedc1492d31dbba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_940613d7e49bb10e58a1a48c772803f4008c96a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\0728f307893a61e9b186c085b9fb4c420d28c6e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f61feceb13dcc75228f43c1459cac598abfeaac2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\638a87a82ea6b2f8338d9ada4249adedc6e74cd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc6d41fd2deb5cbd5b7744e1bf86a74e5a0fec57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\.android\build-cache\a79d8f12d42100abbd26dc953c236d64c610d0f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2676630f2643074ea6160fe057d55b661792c6d8\classes.dex" />
+    </item>
+
+</items>

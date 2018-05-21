@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.andinazn.sensordetectionv2.InputEmergencyNumber">
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:minHeight="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:titleTextColor="@android:color/white">
+    </android.support.v7.widget.Toolbar>
+
+
+    <EditText
+        android:id="@+id/inputPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/inputPhone2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-152dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter Phone Num (req.)"
+        android:inputType="phone"
+        android:padding="17dp"
+        android:textSize="18sp" />
+
+
+    <EditText
+        android:id="@+id/inputPhone2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="155dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter Phone Number"
+        android:inputType="phone"
+        android:padding="17dp"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/inputPhone3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter Phone Number"
+        android:inputType="phone"
+        android:padding="17dp"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/inputPhone4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="153dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter Phone Number"
+        android:inputType="phone"
+        android:padding="17dp"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/inputPhone5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="81dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter Phone Number"
+        android:inputType="phone"
+        android:padding="17dp"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/buttonNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:background="@drawable/button_shape"
+        android:onClick="goToNameActivity"
+        android:text="NEXT"
+
+
+        android:textAllCaps="false"
+        android:textSize="18sp" />
+
+
+</RelativeLayout>

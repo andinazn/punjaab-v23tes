@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">falldetection</string>
+    <string name="hello_round">Hello John Chaorai!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="measure_round">Measure!</string>
+</resources>

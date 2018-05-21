@@ -1,0 +1,2 @@
+include ':mobile', ':wear', ':sharedn'
+project(':sharedn').projectDir = new File('shared')

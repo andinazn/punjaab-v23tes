@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.andinazn.sensordetectionv2">
+
+    <uses-permission android:name="android.permission.BODY_SENSORS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCEFUhfLqKI1-XX6nVamFn_Z-S42Sg8CoU"/>
+
+        <activity
+            android:name=".PilihanMenuAwal"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LoginEmailActivity" />
+        <activity android:name=".LoginPasswordActivity" />
+        <activity android:name=".RegisterEmailActivity" />
+        <activity android:name=".RegisterNameActivity" />
+        <activity android:name=".RegisterPasswordActivity" />
+        <activity android:name=".InputEmergencyNumber" />
+        <activity android:name=".InviteCodeActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"></activity>
+
+        <receiver android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="com.example.SendBroadcast"></action>
+            </intent-filter>
+        </receiver>
+
+        <service android:name=".LocationShareService"
+            android:enabled="true"
+            android:exported="false"/>
+
+        <service android:name=".SensorReceiverService">
+            <intent-filter>
+                <action android:name="com.google.android.gms.wearable.BIND_LISTENER" />
+                <action android:name="com.example.SendBroadcast1"></action>
+            </intent-filter>
+        </service>
+
+        <activity android:name=".MyGPS"></activity>
+    </application>
+
+</manifest>
